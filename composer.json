@@ -1,0 +1,7 @@
+{
+    "name": "asraful/del",
+    "description": "This is just PHP namespace learning purpose.",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "stable",
+}
