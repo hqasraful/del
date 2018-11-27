@@ -4,5 +4,19 @@
     "type": "library",
     "license": "MIT",
     "minimum-stability": "1.0.0",
+    "prefer-stable": true,
+    "require": {
+        "php": "^7.1"
+    },
+    "config": {
+        "optimize-autoloader": true,
+        "sort-packages": true
+    },
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    }
+
 
 }
